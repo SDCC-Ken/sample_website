@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blog>
+<item>
+<title>Welcome to our website</title>
+<no>0001</no>
+<description>Today, our website's prototype has been launched.</description>
+<categories>Main</categories>
+<author>Admin</author>
+<pubDate>10-April-2014</pubDate>
+<pubMonth>10</pubMonth>
+<pubDay>April</pubDay>
+</item>
+</blog>
